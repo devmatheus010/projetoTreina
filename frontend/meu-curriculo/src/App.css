@@ -1,0 +1,209 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+#curriculo {
+  margin: 20px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+.input-group {
+  margin-bottom: 15px;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: #555;
+}
+
+.input-group input,
+.input-group select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.input-group textarea {
+  min-height: 100px;
+}
+
+button {
+  padding: 12px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+button:active {
+  background-color: #387e36;
+}
+
+@media (max-width: 768px) {
+  #curriculo {
+    margin: 10px;
+    padding: 15px;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+/* Estilizando os campos do LinkedIn e o campo de texto */
+.input-group {
+  margin-bottom: 20px; /* Espaçamento entre os campos */
+}
+
+.input-group label {
+  display: block;
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.input-with-icon {
+  position: relative;
+}
+
+.input-with-icon input {
+  width: 100%;
+  padding: 10px 30px 10px 40px; /* Mais padding à esquerda para acomodar o ícone */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.input-with-icon svg {
+  position: absolute;
+  left: 10px; /* Distância da borda esquerda */
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: #007bff;
+}
+
+/* Estilizando o campo de texto para mais informações sobre o usuário */
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+  min-height: 120px; /* Maior altura para o textarea */
+  resize: vertical; /* Permite ao usuário redimensionar o campo */
+}
+
+/* Estilo do botão de envio */
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 100%;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Ajuste para garantir um bom espaçamento no mobile */
+@media (max-width: 600px) {
+  .input-group {
+    margin-bottom: 15px;
+  }
+
+  button {
+    padding: 10px;
+  }
+}
+/* Estilos para os grupos de input */
+.input-group {
+  margin-bottom: 20px; /* Espaçamento entre os campos */
+}
+
+/* Estilos para os rótulos dos inputs */
+.input-group label {
+  display: block;
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+/* Estilos para os campos de input e textarea */
+.input-group input,
+.input-group textarea,
+.input-group select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+/* Estilo dos ícones (GitHub, LinkedIn) nos campos de input */
+.input-with-icon {
+  position: relative;
+}
+
+.input-with-icon input {
+  padding-left: 35px; /* Espaçamento à esquerda para acomodar o ícone */
+}
+
+/* Estilo dos ícones (GitHub, LinkedIn) */
+.input-with-icon svg {
+  position: absolute;
+  left: 10px; /* Distância da borda esquerda */
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: #007bff;
+}
+
+/* Estilo para o campo de texto (textarea) */
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+  min-height: 120px; /* Maior altura para o textarea */
+  resize: vertical; /* Permite ao usuário redimensionar o campo */
+}
+
+/* Estilo do botão de envio */
+
+
+}
