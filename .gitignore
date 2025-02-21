@@ -1,0 +1,35 @@
+# Ignorar a pasta frontend (pois já foi enviada)
+frontend/
+
+# Ignorar arquivos de log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Diretórios e arquivos do Node.js
+node_modules/
+jspm_packages/
+
+# Arquivos de build
+build/Release
+
+# Outras pastas e arquivos que você não quer adicionar
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do Eclipse
+.metadata/
