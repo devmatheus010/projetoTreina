@@ -7,6 +7,7 @@ A ideia do projeto foi construir uma aplicação de cadastro de currículo, foi 
 - **Java 17** ou superior - [Baixar](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - **Maven** instalado - [Baixar](https://maven.apache.org/download.cgi)
 - **MySQL** instalado e rodando - [Baixar](https://dev.mysql.com/downloads/installer/)
+- **Uma IDE de sua preferência**
 
 Ambiente de Desenvolvimento
 
