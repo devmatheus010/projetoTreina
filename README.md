@@ -8,10 +8,10 @@ Conhecimento em Java, POO, SpringBoot, Conceitos de API, React, Banco de Dados S
 
 Ambiente de Desenvolvimento
 
-Back End - IDE Eclipse
-Front End - IDE VS Code
-Banco de Dados - MySql WokBecnh
-Consulta de APIS - Postman 
+* **Back End** - IDE Eclipse
+* **Front End** - IDE VS Code
+* **Banco de Dados** - MySql WokBecnh
+* **Consulta de APIS** - Postman 
 
 ## Tela do frontend 🖥️
 
@@ -25,6 +25,6 @@ Consulta de APIS - Postman
 
 ## Autores ✏️
 
-Matheus Alves - Desenvolvedor - [GitHub](https://github.com/devmatheus010)
-João Ferreira - Professor - [GitHub](https://github.com/joaoferreirape)
+* **Matheus Alves**- Desenvolvedor - [GitHub](https://github.com/devmatheus010)
+* **João Ferreira** - Professor - [GitHub](https://github.com/joaoferreirape)
 
