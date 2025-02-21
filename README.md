@@ -11,7 +11,7 @@ No backend, a linguagem escolhida foi o Java, utilizando o framework Spring Boot
 - **MySQL** - [Baixar](https://dev.mysql.com/downloads/installer/)
 - **Uma IDE de sua preferência** - (Eclipse, Intellij, NetBeans, VS Code...)
 
-Ambiente de Desenvolvimento
+Ambiente de Desenvolvimento Usado no Projeto
 
 * **Back End** - IDE Eclipse
 * **Front End** - IDE VS Code
