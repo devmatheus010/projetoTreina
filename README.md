@@ -6,10 +6,10 @@ No backend, a linguagem escolhida foi o Java, utilizando o framework Spring Boot
 
 ###  Pré-requisitos Back-End 👩‍💻
 
-- **Java 17** ou superior - [Baixar](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-- **Maven** instalado - [Baixar](https://maven.apache.org/download.cgi)
-- **MySQL** instalado e rodando - [Baixar](https://dev.mysql.com/downloads/installer/)
-- **Uma IDE de sua preferência**
+- **Java 17*, 21, 23* r - [Baixar](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- **Maven** - [Baixar](https://maven.apache.org/download.cgi)
+- **MySQL** - [Baixar](https://dev.mysql.com/downloads/installer/)
+- **Uma IDE de sua preferência** - (Eclipse, Intellij, NetBeans, VS Code...)
 
 Ambiente de Desenvolvimento
 
