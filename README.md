@@ -1,6 +1,8 @@
 # Projeto Consenso 📜
 
-A ideia do projeto foi construir uma aplicação de cadastro de currículo, foi usada o modo RestApi. No back End a Linguagem usada foi o Java com o framework Spring Boot, já no front foi usado o framework React-bootstrap e o Banco de Dados usado foi o MySQL
+A ideia do projeto foi desenvolver uma aplicação de cadastro de currículos, utilizando o padrão REST API.
+
+No backend, a linguagem escolhida foi o Java, utilizando o framework Spring Boot. Para o frontend, foi utilizado o framework React-Bootstrap para garantir uma interface amigável e responsiva. O banco de dados utilizado para armazenar as informações foi o MySQL.
 
 ###  Pré-requisitos Back-End 👩‍💻
 
